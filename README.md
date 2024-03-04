@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-mushahid&label=Profile%20views&color=0e75b6&style=flat" alt="khan-mushahid" /> </p>
 
-- 🔭 I’m currently working on **Data Structures and Assembly Language.**
+- 🔭 I’m currently working on **Full Stack Web Development and Artificial Inellegence.**
 
-- 💬 Ask me about **Programming Fundamentals and Object-Oriented Programming in C++.**
+- 💬 Ask me about **Object-Oriented, Data Structures and Algorithms, Visual Programming, Database(DBMS).**
 
 - 📫 How to reach me **mushahidkhan20003@gmail.com**
 
