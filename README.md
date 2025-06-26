@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mushahidkhan20003@gmail.com**
 
-- ⚡ Fun fact **I'm lazy.**
+-⚡ Fun fact **I can switch from frontend to machine learning faster than you can say console.log('Hello AI!').**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
